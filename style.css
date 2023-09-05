@@ -1,1 +1,8 @@
 /* Apply CSS styling rule for child elements relative to ancestor elements */
+
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
